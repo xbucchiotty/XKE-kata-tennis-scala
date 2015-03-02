@@ -8,3 +8,6 @@ libraryDependencies ++= Seq(
   "org.scalatest" % "scalatest_2.10" % "2.0",
   "junit" % "junit" % "4.8.1"
 )
+
+libraryDependencies += "com.novocode" % "junit-interface" % "0.11" % Test
+
